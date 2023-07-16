@@ -11,7 +11,7 @@ import {
 } from "wagmi";
 import Head from "next/head";
 
-const contractAddress = "0xA87B8B1d721D399cB21D6276D53fF79fB1796d30";
+const contractAddress = "0x6fAdc55E1FbF873304269B638f107eADbEbaAB92";
 const contractABI = CeloChat;
 
 const ChatLogic = () => {
